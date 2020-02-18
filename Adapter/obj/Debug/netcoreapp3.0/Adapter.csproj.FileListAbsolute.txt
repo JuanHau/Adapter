@@ -1,0 +1,4 @@
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.exe
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
