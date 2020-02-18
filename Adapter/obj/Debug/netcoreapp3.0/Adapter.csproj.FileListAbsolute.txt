@@ -2,3 +2,12 @@ C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcore
 C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
 C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
 C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.deps.json
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.json
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.dev.json
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.dll
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.pdb
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csproj.CopyComplete
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
+C:\BLUE OCEAN\CAPACITACION\Patrones de diseño\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb

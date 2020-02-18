@@ -7,7 +7,7 @@ namespace Adapter.Servicios
     {
         public JObject ObtenerSucursales()
         {
-            return JObject.Parse("{'Id':'45584', 'Nombre':'Oxxo', 'VentaDia':'232383.32'}, {'Id':'887653', 'Nombre':'Oxxo', 'VentaDia':'56888.32'}");
+            return JObject.Parse("{'Id':'45584', 'Nombre':'Oxxo', 'VentaDia':'232383.32'}");
         }
     }
 }

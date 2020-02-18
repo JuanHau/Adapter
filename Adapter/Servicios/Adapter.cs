@@ -1,4 +1,5 @@
-﻿using Adapter.Entidades.Interfaces;
+﻿using Adapter.Entidades;
+using Adapter.Entidades.Interfaces;
 using Adapter.Servicios.Interfaces;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -19,7 +20,7 @@ namespace Adapter.Servicios
         {
             JObject jObject = _serviceSucursalJson.ObtenerSucursales();
 
-            return JsonConvert.DeserializeObject<List<ISucursal>>(jObject.ToString());
+            return new List<ISucursal>() { jObject.ToObject<Sucursal>() };
         }
     }
 }

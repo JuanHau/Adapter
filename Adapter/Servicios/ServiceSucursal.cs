@@ -3,7 +3,6 @@ using Adapter.Entidades.Interfaces;
 using Adapter.Servicios.Interfaces;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Adapter.Servicios
 {
